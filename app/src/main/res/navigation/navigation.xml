@@ -9,6 +9,6 @@
         android:label="Fragment_PlayList" />
     <fragment
         android:id="@+id/fragment_Play_Music"
-        android:name="com.lovejeet.musicplayer.Fragment_Play_Music"
+        android:name="com.lovejeet.musicplayer.PlayMusic_fragment"
         android:label="Fragment_Play_Music" />
 </navigation>
